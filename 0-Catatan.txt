@@ -1,0 +1,8 @@
+Nama : Muhammad Eko Romadhon
+NIM   : 18416255201005
+Email : mekoromad17@gmail.com
+
+Project ke-10  = Pemrograman Web
+Judul Project = Sistem Registrasi Pembukuan Kantor Desa Cikampek Utara
+
+Note : Project ini merupakan project yang dibuat untuk sosialisasi atau pengabdian kepada masyarakat di desa Cikampek Utara. Dimana, project ini merupakan peralihan atau perubahan dari sistem sebelumnya pada saat Kerja Praktik. Sistem ini telah diperbaharui secara menyeluruh, mulai dari tampilan dan menu-menu yang lainnya.
